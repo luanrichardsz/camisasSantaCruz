@@ -21,7 +21,7 @@ let listaCamisas = [
     },
     {
         "nome": "Camisa de Goleiro",
-        "img": "img/santacruzg.jpeg",
+        "img": "img/santacruzG.jpeg",
         "descricao": "Camisa oficial dos goleiros do Santa Cruz em 2023, com cores vibrantes e tecnologia para alta performance."
     },
     {
